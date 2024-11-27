@@ -2,6 +2,9 @@
 
 This Streamlit app fetches financial data for companies from Screener.in and calculates intrinsic value using a discounted cash flow (DCF) model. It provides a user-friendly interface with visualizations and detailed metrics.
 
+## Live Link
+[Try the Financial Calculator here!](https://hrshpreet-financial-calculator.streamlit.app/)
+
 ---
 
 ## Features
