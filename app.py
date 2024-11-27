@@ -1,6 +1,5 @@
 import streamlit as st
 from scraping import get_company_data
-from dcf_model import calculate_intrinsic_pe
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
